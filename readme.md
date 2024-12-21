@@ -4,6 +4,8 @@ LearningRewards is a blockchain-based platform that incentivizes users to enhanc
 
  Contract Address
 0xF19136E69Ae381a7ea08d645C9b3654b1C0A8467
+![image](https://github.com/user-attachments/assets/e6871809-b0aa-4364-a6f4-fb5115857f35)
+
 
  Project Vision
 The vision of LearningRewards is to create a global platform where learning is encouraged and rewarded. By leveraging blockchain technology, we aim to:
